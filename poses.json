@@ -1,0 +1,100 @@
+{
+    "poses": [
+        {
+            "id": 0,
+            "name": "In piedi",
+            "orientation": "di fronte",
+            "angles": {
+                "LShoulderRoll": 0.0,
+                "LShoulderPitch": 1.5,
+                "LElbowRoll": 0.0,
+                "RShoulderRoll": 0.0,
+                "RShoulderPitch": 1.5,
+                "RElbowRoll": 0.0
+            }
+        },
+        {
+            "id": 1,
+            "name": "T-Pos",
+            "orientation": "di fronte",
+            "angles": {
+                "LShoulderRoll": 1.5,
+                "LShoulderPitch": 0.0,
+                "LElbowRoll": 0.0,
+                "RShoulderRoll": -1.5,
+                "RShoulderPitch": 0.0,
+                "RElbowRoll": 0.0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Candelabro",
+            "orientation": "di fronte",
+            "angles": {
+                "LShoulderRoll": 1.5,
+                "LShoulderPitch": 0.0,
+                "LElbowRoll": -1.4,
+                "RShoulderRoll": -1.5,
+                "RShoulderPitch": 0.0,
+                "RElbowRoll": 1.4
+            }
+        },
+        {
+            "id": 3,
+            "name": "Mani in alto",
+            "orientation": "di fronte",
+            "angles": {
+                "LShoulderRoll": 0.0,
+                "LShoulderPitch": -1.5,
+                "LElbowRoll": 0.0,
+                "RShoulderRoll": 0.0,
+                "RShoulderPitch": -1.5,
+                "RElbowRoll": 0.0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Zombi",
+            "orientation": "lateralmente",
+            "angles": {
+                "LShoulderRoll": 0.0,
+                "LShoulderPitch": 0.0,
+                "LElbowRoll": 0.0,
+                "RShoulderRoll": 0.0,
+                "RShoulderPitch": 0.0,
+                "RElbowRoll": 0.0
+            },
+            "angles_to_check": {
+                "LShoulderRoll": 1.5,
+                "LShoulderPitch": 0.0,
+                "LElbowRoll": 0.0,
+                "RShoulderRoll": 1.5,
+                "RShoulderPitch": 0.0,
+                "RElbowRoll": 0.0
+            }
+        },
+        {
+            "id": 5,
+            "name": "Mani dietro la testa",
+            "orientation": "girato di spalle",
+            "angles": {
+                "LShoulderRoll": 0.2,
+                "LShoulderPitch": -1.8,
+                "LElbowRoll": -1.5,
+                "LElbowYaw": -0.6,
+                "RShoulderRoll": -0.2,
+                "RShoulderPitch": -1.8,
+                "RElbowRoll": 1.5,
+                "RElbowYaw": 0.6
+            },
+            "angles_to_check": {
+                "LShoulderRoll": -1.0,
+                "LShoulderPitch": -0.8,
+                "LElbowRoll": -2.5,
+                "RShoulderRoll": 1.0,
+                "RShoulderPitch": -0.8,
+                "RElbowRoll": 2.5
+            }
+        }
+    ]
+}
