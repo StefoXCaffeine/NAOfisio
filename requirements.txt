@@ -1,0 +1,19 @@
+# NAOfisio Requirements
+
+# ROS2
+rclpy
+
+# Computer Vision
+opencv-python
+cv-bridge
+mediapipe
+
+# AI
+google-generativeai
+
+# Math & Data
+numpy
+
+# ROS2 Message Types
+sensor_msgs
+std_msgs
